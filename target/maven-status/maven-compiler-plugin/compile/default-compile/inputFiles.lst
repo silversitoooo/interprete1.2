@@ -1,0 +1,17 @@
+C:\Users\ariel\OneDrive\Desktop\sin plagio\interprete-lisp\src\main\java\interprete\elementos\Entero.java
+C:\Users\ariel\OneDrive\Desktop\sin plagio\interprete-lisp\src\main\java\interprete\Interprete.java
+C:\Users\ariel\OneDrive\Desktop\sin plagio\interprete-lisp\src\main\java\interprete\excepciones\ArgumentoInvalidoExcepcion.java
+C:\Users\ariel\OneDrive\Desktop\sin plagio\interprete-lisp\src\main\java\interprete\excepciones\ParseException.java
+C:\Users\ariel\OneDrive\Desktop\sin plagio\interprete-lisp\src\main\java\interprete\primitivas\FuncionAplicable.java
+C:\Users\ariel\OneDrive\Desktop\sin plagio\interprete-lisp\src\main\java\interprete\elementos\Simbolo.java
+C:\Users\ariel\OneDrive\Desktop\sin plagio\interprete-lisp\src\main\java\interprete\util\LectorEvaluador.java
+C:\Users\ariel\OneDrive\Desktop\sin plagio\interprete-lisp\src\main\java\interprete\elementos\ElementoAtomico.java
+C:\Users\ariel\OneDrive\Desktop\sin plagio\interprete-lisp\src\main\java\interprete\excepciones\LimiteRecursionExcedidoException.java
+C:\Users\ariel\OneDrive\Desktop\sin plagio\interprete-lisp\src\main\java\interprete\excepciones\TipoInvalidoException.java
+C:\Users\ariel\OneDrive\Desktop\sin plagio\interprete-lisp\src\main\java\interprete\elementos\Enlace.java
+C:\Users\ariel\OneDrive\Desktop\sin plagio\interprete-lisp\src\main\java\interprete\elementos\Texto.java
+C:\Users\ariel\OneDrive\Desktop\sin plagio\interprete-lisp\src\main\java\interprete\excepciones\SintaxisInvalidaException.java
+C:\Users\ariel\OneDrive\Desktop\sin plagio\interprete-lisp\src\main\java\interprete\excepciones\VariableNoDefinidaException.java
+C:\Users\ariel\OneDrive\Desktop\sin plagio\interprete-lisp\src\main\java\interprete\Main.java
+C:\Users\ariel\OneDrive\Desktop\sin plagio\interprete-lisp\src\main\java\interprete\elementos\ElementoBase.java
+C:\Users\ariel\OneDrive\Desktop\sin plagio\interprete-lisp\src\main\java\interprete\primitivas\PrimitivasRegistro.java
